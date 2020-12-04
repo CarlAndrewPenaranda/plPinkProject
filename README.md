@@ -21,6 +21,7 @@
       - Geography
       - Foods and Drinks
       - Sports
+  - Some questions will have hints provided respectively
   - The score will be displayed after playing the quiz
   
   # IPO
