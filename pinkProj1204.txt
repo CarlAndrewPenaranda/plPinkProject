@@ -1,0 +1,1 @@
+As we continue to do our project today, we encounter a problem in creating our IPO chart, when we try to upload the .md file the format of the chart keeps on getting ruined. But we found a solution for this problem, we just edited the format from "____" to"----" in making the chart. For today's work, We managed to create a flowchart and finish the IPO chart.
