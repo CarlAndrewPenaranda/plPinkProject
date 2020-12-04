@@ -10,13 +10,17 @@
   - The application will be generating a quiz game for a random user to answer
   - The quiz game is based from trivias
   - The quiz will have a overall total questions of 120
-  - The 120 questions in the quiz will be divided in 5 types of categories:
+  - The 120 questions in the quiz will be divided in 5 types of test:
       - Multiple Choice
       - Fill-in-the-blank
       - Identification
       - True or False
       - Pick the odd one
-  - Some questions will have a hint provided
+  - The quiz will have 5 categories and will be shuffled in every test questions:
+      - Technology
+      - Geography
+      - Foods and Drinks
+      - Sports
   - The score will be displayed after playing the quiz
   
   # IPO
