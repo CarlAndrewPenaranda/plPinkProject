@@ -1,14 +1,12 @@
-_______________________________________________________________________
-|         INPUT         |      PROCESS          |      OUTPUT         |
-|_______________________|_______________________|_____________________|
-| -answer all the       | -user will only answer| -the answer will be |
-| question in quiz by   |  based on the choices |  displayed after    |
-| the user.             |  provided in          |  answering each     |
-| (5 Categories:        |  the quiz             |  category in the    |
-|  120 Questions        | -record score after   |  quiz               |
-|                       |  answering each       | -total score will be|
-|                       |  category             |  displayed          |
-|                       | -sum all the score    |                     |
-|                       |  after finishing the  |                     |
-|                       |  quiz                 |                     |
-|_______________________|_______________________|_____________________|
+|            INPUT                        |                  PROCESS                    |           OUTPUT                        |
+| --------------------------------------- | ------------------------------------------- | ----------------------------------------|
+| - answer all the questions in the quiz  | - record score after finishing each categ-  | - answers will be displayed after       |
+|   (120 questions : 5 categories)        |   ory.                                      |   ending the quiz                       |
+| - answer only based on the given        | - sum overall score after finishing         | - display the total score of the user   |
+|   choices                               |   quiz.                                     |                                         |
+|                                         |                                             |                                         |
+|                                         |                                             |                                         |
+|                                         |                                             |                                         |
+|                                         |                                             |                                         | 
+|                                         |                                             |                                         | 
+|                                         |                                             |                                         |
