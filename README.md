@@ -34,6 +34,6 @@
 |   choices                               |   quiz.                                     |                                         |
 |                                         |                                             |                                         |
 
+ # IPO Flowchart
 
- 
 ![](main/IPO%20flowchat.png)
