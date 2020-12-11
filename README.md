@@ -36,4 +36,4 @@
 
  # IPO Flowchart
 
-![](main/IPO%20flowchat.png)
+![](Images/IPO%20flowchat.png)
