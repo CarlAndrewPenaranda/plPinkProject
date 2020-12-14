@@ -475,7 +475,7 @@ if challenge == "YES":
                       "\n Rian Magsino \n 1CPE ")
                 exit()
                 break
-            elif input_user == " ":
+            elif input_user == "":
                 print("Invalid Input!")
 
 
