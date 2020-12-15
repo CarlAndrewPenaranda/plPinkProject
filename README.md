@@ -38,7 +38,8 @@
 
 ![](Images/IPO%20flowchat.png)
 
+
  # Poster
  
-![](Images/IPO%20Don%20Bosco%20technical%20college%20mandaluyong%20(1).png)
+![](Images/Don%20Bosco%20technical%20college%20mandaluyong%20(1).png)
 
