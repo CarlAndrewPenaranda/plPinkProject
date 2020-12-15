@@ -42,5 +42,3 @@
  
 ![](Images/IPO%20Don%20Bosco%20technical%20college%20mandaluyong%20(1).png)
 
- # DEMO
- - https://youtu.be/dGx6iTfVGCo
